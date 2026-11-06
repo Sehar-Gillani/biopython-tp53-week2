@@ -5,5 +5,5 @@ Files:
 - Week2_Biopython.ipynb — the full notebook
 - tp53.fasta — the TP53 mRNA sequence, saved from NCBI
 
-Learning bioinformatics again, polishing it with AI as my teacher. — Week 2.
+Retouching bioinformatics, polishing it with AI as my teacher. — Week 2.
 
